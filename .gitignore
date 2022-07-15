@@ -1,0 +1,6 @@
+*.dwg
+*.dxf
+*.gcode
+*.iges
+*.zip
+??.stl
